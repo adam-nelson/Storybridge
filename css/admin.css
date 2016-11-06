@@ -1,0 +1,17 @@
+body {
+	font-family: Verdana;
+	font-size: 18px;
+	text-align: center;
+}
+
+.hidden {
+	display: none;
+}
+
+.fullwidth {
+	width: 100%;
+}
+
+.today {
+	font-weight: bold;
+}
